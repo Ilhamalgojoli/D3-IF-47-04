@@ -6,6 +6,6 @@ public class Jurnal {
     System.out.println ("Ilham");
     System.out.println ("607062300081");
     System.out.println ("D3IF-47-04");
-
+    
     }
 }
